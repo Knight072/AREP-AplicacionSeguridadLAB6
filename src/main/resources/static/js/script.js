@@ -1,4 +1,4 @@
-const API_URL = '/api/deliveries';
+const API_URL = 'http://localhost:8080/api/deliveries'; // Ajusta esto a la URL de tu servidor
 let currentId = null;
 
 // Fetch all deliveries
