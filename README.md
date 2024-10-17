@@ -187,6 +187,10 @@ mvn test
 
 Version: 1.0
 
+## Author
+
+* **Daniel Felipe Rojas Hernández** - [Knight072](https://github.com/Knight072)
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
