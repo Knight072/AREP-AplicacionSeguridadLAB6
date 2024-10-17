@@ -53,7 +53,7 @@ Ahora se puede logear con la cuenta registrada anteriormente y se redireccionara
 El despliegue se hace en AWS EC2, donde hay dos instancias con apache instalado. Una de las instancias aloja los archivos del cliente(html, css y js). La otra instacia 
 ejecuta spring-boot con todo el backend de la aplicación, incluyendo una base de datos en H2. Para cada instancia se configuró un certificado SSL por medio de la 
 aplicación [Certbot (eff.org)](https://certbot.eff.org/) para habilitar el ingreso seguro por medio de https.
-Video del despliegue en funcionamiento: https://youtu.be/fKNLOPu5Kbs
+Video del despliegue en funcionamiento: [https://youtu.be/fKNLOPu5Kbs](https://youtu.be/ArGikJSLPtA)
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ff9900', 'primaryTextColor': '#fff', 'primaryBorderColor': '#ff9900', 'lineColor': '#f8f8f2', 'secondaryColor': '#282a36', 'tertiaryColor': '#44475a'}}}%%
